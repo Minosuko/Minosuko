@@ -3,8 +3,7 @@
 
 <p align="center" width="100%">Live just for fesh and sweet berry</p>
 
-<h3 align="center" width="100%">Main languages</h3>
-
+<h2 align="center" width="100%">Main languages</h2>
 <p align="center" width="100%">
   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
