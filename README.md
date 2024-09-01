@@ -1,8 +1,7 @@
 <h1 align="center" width="100%">Meow</h1>
-<p align="center" width="100%">I'm Minosuko and you can call me Mino</p>
-<p align="center" width="100%">Developer and lil smol artist</p>
+<p align="center" width="100%">I'm Minosuko and you can call me Mino<br>Developer and lil smol artist</p>
 
-Live just for fesh and sweet berry
+<p align="center" width="100%">Live just for fesh and sweet berry</p>
 
 <h3 align="center" width="100%">Main languages</h3>
 
