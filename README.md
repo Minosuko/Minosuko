@@ -18,5 +18,5 @@
   <img alt="Minosuko's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Minosuko&theme=tokyonight"/>
 </p>
 <p align="center" width="100%">
-  <img alt="Minosuko's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Minosuko"/>
+  <img alt="Minosuko's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com?user=Minosuko&theme=tokyonight&hide_border=true&border_radius=15&date_format=j%2Fn%5B%2FY%5D"/>
 </p>
