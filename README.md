@@ -12,7 +12,7 @@
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23F7DF1E6.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>
 </p>
-#
+# 
 <p align="center" width="100%">
   <img alt="Minosuko's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Minosuko&theme=tokyonight"/>
 </p>
