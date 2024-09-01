@@ -28,6 +28,7 @@
 	<a href="https://bsky.app/profile/minosuko.lesbian.cat" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/BSky-%230285FF.svg?&style=for-the-badge&logo=Bluesky&logoColor=white"/></a>
 </p>
 
+
 #  
 
 <p align="center" width="100%">
@@ -39,3 +40,11 @@
 <p align="center" width="100%">
 	<img alt="Minosuko's GitHub Most Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minosuko&theme=tokyonight&hide_border=true&bg_color=0D111700"/>
 </p>
+
+
+<h1 align="center">Support</h1>
+<p align="center">
+	<a href="https://ko-fi.com/minosuko">
+		<img src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Support Kofi">
+	</a>
+<p>
