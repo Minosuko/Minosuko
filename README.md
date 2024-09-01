@@ -1,6 +1,6 @@
-# Meow
-I'm Minosuko and you can call me Mino
-Developer and lil smol artist
+<h1 align="center" width="100%">Meow</h1>
+<p align="center" width="100%">I'm Minosuko and you can call me Mino</p>
+<p align="center" width="100%">Developer and lil smol artist</p>
 
 Live just for fesh and sweet berry
 
