@@ -9,7 +9,7 @@
 <li align="center">👨‍💻 Fullstack dev enjoy open-source</li>
 <li align="center">📝 Main project <a href="https://github.com/Minosuko/DarkNight">DarkNight</a></li>
 <li align="center">❤️ I love writing PHP, and building website</li>
-<li align="center">-   💬 Ask me about anything  [here](https://github.com/Minosuko/Minosuko/issues)</li>
+<li align="center">💬 Ask me about anything  <a href="https://github.com/Minosuko/Minosuko/issues">here</a></li>
 <li align="center">🤍 Da foxxo live just for fesh and sweet berry🍒</li>
 
 
