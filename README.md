@@ -1,13 +1,16 @@
-# <p align="center" width="100%">I'm Minosuko and you can call me Mino</p>
+
+### <p align="center" width="100%">Hi, I'm Minosuko a.k.a Mino</p>
 
 <div align="center">
 	<img src="https://minosuko.undo.it/assets/images/avatar.svg" alt="Profile Picture" width="35%">
 </div>
 
-<p align="center" width="100%">Developer and lil smol artist</p>
-<p align="center" width="100%">Live just for fesh and sweet berry</p>
-
-<h1 align="center" width="100%">Meow</h1>
+# <p align="center" width="100%">About Me</p>
+<li align="center">👨‍💻 Fullstack dev enjoy open-source</li>
+<li align="center">📝 Main project <a href="https://github.com/Minosuko/DarkNight">DarkNight</a></li>
+<li align="center">❤️ I love writing PHP, and building website</li>
+<li align="center">-   💬 Ask me about anything  [here](https://github.com/Minosuko/Minosuko/issues)</li>
+<li align="center">🤍 Da foxxo live just for fesh and sweet berry🍒</li>
 
 
 ### <p align="center" width="100%">Main languages</p>
@@ -42,7 +45,9 @@
 </p>
 
 
-<h1 align="center">Support</h1>
+# 
+
+### <p align="center">Support</p>
 <p align="center">
 	<a href="https://ko-fi.com/minosuko">
 		<img src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Support Kofi">
