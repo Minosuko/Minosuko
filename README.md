@@ -7,13 +7,13 @@
 </div>
 
 # <p align="center" width="100%">About Me</p>
-<center>
+<div align="center">
 <li>📝 Main project <a href="https://github.com/Minosuko/DarkNight">DarkNight</a></li>
 <li>💬 Ask me about anything  <a href="https://github.com/Minosuko/Minosuko/issues">here</a></li>
 <li>👨‍💻 Fullstack dev enjoy open-source</li>
 <li>❤️ I love writing PHP, and building website</li>
 <li>🤍 Da foxxo live just for fesh and sweet berry🍒</li>
-</center>
+</div>
 
 
 ### <p align="center" width="100%">Main languages</p>
