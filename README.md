@@ -1,9 +1,8 @@
-
+# <p align="center" width="100%">I'm Minosuko and you can call me Mino<br>Developer and lil smol artist</p>
 
 <div align="center">
 	<img src="https://minosuko.undo.it/assets/images/avatar.svg" alt="Profile Picture" width="35%">
 </div>
-<p align="center" width="100%">I'm Minosuko and you can call me Mino<br>Developer and lil smol artist</p>
 
 <p align="center" width="100%">Live just for fesh and sweet berry</p>
 
