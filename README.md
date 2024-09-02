@@ -1,4 +1,5 @@
 
+
 ### <p align="center" width="100%">Hi, I'm Minosuko a.k.a Mino</p>
 
 <div align="center">
@@ -6,11 +7,13 @@
 </div>
 
 # <p align="center" width="100%">About Me</p>
-<li align="center">👨‍💻 Fullstack dev enjoy open-source</li>
-<li align="center">📝 Main project <a href="https://github.com/Minosuko/DarkNight">DarkNight</a></li>
-<li align="center">❤️ I love writing PHP, and building website</li>
-<li align="center">💬 Ask me about anything  <a href="https://github.com/Minosuko/Minosuko/issues">here</a></li>
-<li align="center">🤍 Da foxxo live just for fesh and sweet berry🍒</li>
+<center>
+<li>📝 Main project <a href="https://github.com/Minosuko/DarkNight">DarkNight</a></li>
+<li>💬 Ask me about anything  <a href="https://github.com/Minosuko/Minosuko/issues">here</a></li>
+<li>👨‍💻 Fullstack dev enjoy open-source</li>
+<li>❤️ I love writing PHP, and building website</li>
+<li>🤍 Da foxxo live just for fesh and sweet berry🍒</li>
+</center>
 
 
 ### <p align="center" width="100%">Main languages</p>
