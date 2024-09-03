@@ -48,7 +48,7 @@
 </p>
 
 
-# <p align="center" width="100%">Support Me</p>
+# <p align="center" width="100%">Support</p>
 <p align="center">
 	<a href="https://ko-fi.com/minosuko">
 		<img src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Support Kofi">
