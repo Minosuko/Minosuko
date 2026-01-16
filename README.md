@@ -3,7 +3,7 @@
 ### <p align="center" width="100%">Hi, I'm Minosuko a.k.a Mino</p>
 
 <div align="center">
-	<img src="https://minosuko.id.vn/assets/images/avatar.jpg" alt="Profile Picture" width="35%">
+	<img src="https://minosuko.id.vn/assets/images/avatar.svg" alt="Profile Picture" width="35%">
 </div>
 
 # <p align="center" width="100%">About Me</p>
