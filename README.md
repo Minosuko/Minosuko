@@ -51,6 +51,6 @@
 # <p align="center" width="100%">Support</p>
 <p align="center">
 	<a href="https://ko-fi.com/minosuko">
-		<img src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Support Kofi">
+		<img src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Support Kofi" width="290px" height="73px">
 	</a>
 <p>
