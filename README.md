@@ -8,7 +8,7 @@
 
 # <p align="center" width="100%">About Me</p>
 <div align="center">
-<li>📝 Main project <a href="https://github.com/Minosuko/DarkNight">DarkNight</a> and <a href="https://github.com/Minosuko/FoxyClient">FoxyClient</a> (+<a href="https://github.com/Minosuko/FoxyClientMod">FoxyClientMod</a>) and <a href="https://github.com/Minosuko/FoxyClientSite">FoxyClientSite</a></li>
+<li>📝 Main project <a href="https://github.com/Minosuko/DarkNight">DarkNight</a> and <a href="https://github.com/Minosuko/FoxyClient">FoxyClient</a> (+<a href="https://github.com/Minosuko/FoxyClientMod">FoxyClientMod</a> and <a href="https://github.com/Minosuko/FoxyClientSite">FoxyClientSite</a>)</li>
 <li>💬 Ask me about anything  <a href="https://github.com/Minosuko/Minosuko/issues">here</a></li>
 <li>👨‍💻 Fullstack dev enjoy open-source</li>
 <li>❤️ I love writing PHP, and building website</li>
