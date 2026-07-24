@@ -29,7 +29,7 @@
 	<a href="https://fb.com/MinoFoxc" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%230866FF.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 	<a href="https://discord.com/users/875648914513092618" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/></a>
 	<a href="https://x.com/MinosukoUwU" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/twitter%20(X)-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white"/></a>
-	<a href="https://bsky.app/profile/minosuko.lesbian.cat" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/BSky-%230285FF.svg?&style=for-the-badge&logo=Bluesky&logoColor=white"/></a>
+	<a href="https://bsky.app/profile/minosuko.shy.cat" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/BSky-%230285FF.svg?&style=for-the-badge&logo=Bluesky&logoColor=white"/></a>
 </p>
 
 
